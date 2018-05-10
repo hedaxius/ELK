@@ -5,6 +5,7 @@
 #### 1 .  什么是ELK平台
 
 - ELK = ElasticSearch + Logstash + Kibana
+- 本文默认你已经安装了java环境
 
 #### 2 . 下载安装ElasticSearch
 
