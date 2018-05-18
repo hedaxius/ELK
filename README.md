@@ -7,14 +7,10 @@
 - ELK = ElasticSearch + Logstash + Kibana
 - 本文默认你已经安装了java环境
 - ELK版本为最新的6.2.4
+[ElasticSearch](elasticSearch/document.md)
+[Logstash](logstash/document.md)
+[Kibana](kibana/document.md)
 
-#### ElasticSearch
-
-#### ElasticSearch-head
-
-#### Logstash
-
-#### Kibana
 
 https://segmentfault.com/a/1190000013756857
 
