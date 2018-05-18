@@ -1,17 +1,22 @@
 
 
-### ELK -- 日志分析平台 在windows下的搭建与使用
+### ELK在windows下的搭建与使用
 
-#### 1 .  什么是ELK平台
+#### 什么是ELK平台?
 
 - ELK = ElasticSearch + Logstash + Kibana
 - 本文默认你已经安装了java环境
+- ELK版本为最新的6.2.4
 
-#### 2 . 下载安装ElasticSearch
+#### ElasticSearch
 
-#### 3 . 下载安装插件ElasticSearch-head
+#### ElasticSearch-head
 
-#### 4 . 下载安装Logstash
+#### Logstash
 
-#### 5 . 下载安装Kibana
+#### Kibana
+
+https://segmentfault.com/a/1190000013756857
+
+https://blog.csdn.net/buqutianya/article/details/72027209
 
